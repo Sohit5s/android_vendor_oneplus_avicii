@@ -23288,7 +23288,7 @@ cc_prebuilt_binary {
 }
 
 cc_prebuilt_binary {
-    name: "vendor.oplus.hardware.biometrics.fingerprint@2.1_service",
+    name: "vendor.oplus.hardware.biometrics.fingerprint@2.1-service",
     owner: "oneplus",
     target: {
         android_arm64: {
