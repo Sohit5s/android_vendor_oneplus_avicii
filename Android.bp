@@ -23287,12 +23287,12 @@ cc_prebuilt_binary {
 }
 
 cc_prebuilt_binary {
-    name: "vendor.oplus.hardware.biometrics.fingerprint@2.1_hal-service",
+    name: "vendor.oplus.hardware.biometrics.fingerprint@2.1_hal",
     owner: "oneplus",
     target: {
         android_arm64: {
             srcs: [
-                "proprietary/odm/bin/hw/vendor.oplus.hardware.biometrics.fingerprint@2.1_hal-service",
+                "proprietary/odm/bin/hw/vendor.oplus.hardware.biometrics.fingerprint@2.1_hal",
             ],
             shared_libs: [
                 "libshims_fingerprint.oplus",
