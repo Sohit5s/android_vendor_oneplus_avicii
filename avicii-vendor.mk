@@ -29,7 +29,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/avicii/proprietary/odm/etc/camera/stereoParams_aftersale.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/stereoParams_aftersale.bin \
     vendor/oneplus/avicii/proprietary/odm/etc/camera/video_beauty_default_config:$(TARGET_COPY_OUT_ODM)/etc/camera/video_beauty_default_config \
     vendor/oneplus/avicii/proprietary/odm/etc/init/android.hardware.drm@1.3-service.widevine.rc:$(TARGET_COPY_OUT_ODM)/etc/init/android.hardware.drm@1.3-service.widevine.rc \
-    vendor/oneplus/avicii/proprietary/odm/etc/init/vendor.oplus.hardware.biometrics.fingerprint@2.1-service.rc:$(TARGET_COPY_OUT_ODM)/etc/init/vendor.oplus.hardware.biometrics.fingerprint@2.1-service.rc \
+    vendor/oneplus/avicii/proprietary/odm/etc/init/vendor.oplus.hardware.biometrics.fingerprint@2.1-hal.rc:$(TARGET_COPY_OUT_ODM)/etc/init/vendor.oplus.hardware.biometrics.fingerprint@2.1-hal.rc \
     vendor/oneplus/avicii/proprietary/odm/etc/init/vendor.oplus.hardware.oplusSensor@1.0-service.rc:$(TARGET_COPY_OUT_ODM)/etc/init/vendor.oplus.hardware.oplusSensor@1.0-service.rc \
     vendor/oneplus/avicii/proprietary/odm/etc/izat.conf:$(TARGET_COPY_OUT_ODM)/etc/izat.conf \
     vendor/oneplus/avicii/proprietary/odm/etc/samsung1024_ams644vk04_eyeprotect_data.xml:$(TARGET_COPY_OUT_ODM)/etc/samsung1024_ams644vk04_eyeprotect_data.xml \
