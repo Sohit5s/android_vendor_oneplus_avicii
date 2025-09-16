@@ -789,6 +789,7 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.qteeconnector@1.0-impl \
     vendor.qti.hardware.sensorscalibrate@1.0-impl \
     vendor.qti.hardware.soter@1.0-impl \
+    vendor.lineage.livedisplay@2.1-service.oplus \
     lib-imscmservice \
     lib-imsdpl \
     lib-imsqimf \
