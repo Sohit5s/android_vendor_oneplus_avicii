@@ -18958,6 +18958,7 @@ cc_prebuilt_library_shared {
     owner: "oneplus",
     strip: {
         none: true,
+allow_undefined_symbols: true,
     },
     target: {
         android_arm64: {
